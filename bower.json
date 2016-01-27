@@ -1,0 +1,26 @@
+{
+  "name": "tokml",
+  "description": "convert geojson to kml",
+  "main": "tokml.js",
+  "authors": [
+    "Tom MacWright"
+  ],
+  "license": "BSD-2-Clause",
+  "keywords": [
+    "kml",
+    "geojson",
+    "geo",
+    "maps"
+  ],
+  "homepage": "https://github.com/erinaceous/tokml",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
